@@ -1,5 +1,8 @@
 # Discord-custom-status
  Status custom using discord rpc | discord rpcを使ったステータスカスタム
+# Required packages | 必要なパッケージ
+ Run before this code
+ `npm install discord-rpc`
 # How To Use | 使いかた
  now writting...
  Write with reference to activity.json
