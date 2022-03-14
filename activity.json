@@ -1,0 +1,23 @@
+{
+    "activity":{
+            "details": "最近忙しい",
+            "state": "残基",
+            "partySize": 5,
+            "partyMax": 10,
+            "largeImageKey": "kuwa_minecraft_head",
+            "largeImageText": "あなたもぜひくわの家へ",
+            "smallImageKey": "member",
+            "smallImageText": "お待ちしております！",
+            "buttons": [
+                {
+                    "label" : "くわの家 Discord",
+                    "url" : "https://discord.gg/wgvG2uYeue"
+                },
+                {
+                    "label" : "Twitter",
+                    "url" : "https://kuwa.cf/tw"
+                }
+            ]
+        },
+    "applicationId": "000000000000000000"
+}
