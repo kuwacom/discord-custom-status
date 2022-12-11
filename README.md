@@ -1,3 +1,10 @@
+# This repository has moved!! このリポジトリは移動しました！！
+
+Check out the new Discord Status software here!<br>
+新しい Discord Status ソフトはこちらから閲覧できます！<br>
+[https://github.com/kuwacom/discord-status](https://github.com/kuwacom/discord-status)
+<br>
+<br>
 # Discord-custom-status
  Status custom using discord rpc | discord rpcを使ったステータスカスタム
 # Required packages | 必要なパッケージ
